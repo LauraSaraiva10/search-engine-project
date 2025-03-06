@@ -86,11 +86,10 @@ Open your web browser and go to `http://localhost:8501` to use the search engine
 Example search results from the Streamlit interface:
 
 ### Amazon Search Example
-![Amazon Search Example](images/amazon_search_example.png)
-
+<img src="images/amazon_search_example.png" width="500" />
 
 ### Seth Blog Search Example
-![Seth Blog Search Example](images/seth_blog_search_example.png)
+<img src="images/seth_blog_search_example.png" width="500" />
 
 ### Acknowledgments
 
