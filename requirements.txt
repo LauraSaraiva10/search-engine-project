@@ -1,0 +1,4 @@
+txtai
+numpy
+pandas
+streamlit
